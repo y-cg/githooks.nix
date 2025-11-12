@@ -22,7 +22,8 @@ then import the `githooks` module in your `devenv` configuration file.
 }
 ```
 
-or if you prefer fine grained control, you can import specific githooks modules like this:
+or if you prefer fine grained control, you can import specific githooks modules
+like this:
 
 ```nix
 # devenv.nix
